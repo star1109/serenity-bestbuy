@@ -1,0 +1,5 @@
+"Story","Title","Result","Date","Stability","Duration (s)"
+"Product curd step test","This will create new Product","SUCCESS","2022-06-08T21:19:15.649-11:00[GMT-11:00]","0.0","4.7"
+"Product curd step test","Verify if product added to the list or not","SUCCESS","2022-06-08T21:19:20.379-11:00[GMT-11:00]","0.0","0.1"
+"Product curd step test","Update product and verify","SUCCESS","2022-06-08T21:19:20.481-11:00[GMT-11:00]","0.0","0.09"
+"Product curd step test","delete the created product and verify","SUCCESS","2022-06-08T21:19:20.575-11:00[GMT-11:00]","0.0","0.06"

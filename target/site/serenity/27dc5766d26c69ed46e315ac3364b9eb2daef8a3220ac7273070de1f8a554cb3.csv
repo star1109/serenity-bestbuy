@@ -1,0 +1,5 @@
+"Story","Title","Result","Date","Stability","Duration (s)"
+"Curd store step test","creating new store data","SUCCESS","2022-06-08T21:19:15.665-11:00[GMT-11:00]","0.0","4.65"
+"Curd store step test","verify if store added","SUCCESS","2022-06-08T21:19:20.329-11:00[GMT-11:00]","0.0","0.09"
+"Curd store step test","update the store information and verify it","SUCCESS","2022-06-08T21:19:20.414-11:00[GMT-11:00]","0.0","0.11"
+"Curd store step test","delete the created store","SUCCESS","2022-06-08T21:19:20.520-11:00[GMT-11:00]","0.0","0.06"
